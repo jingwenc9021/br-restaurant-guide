@@ -2,8 +2,8 @@
 ## Asian
 ---
 Select a specific Asian food:
-## Chinese
-## Japanese
-## Thai
+## Chinese  [Panda](https://www.pandabrooklyn.com/)
+## Japanese [Bayridge Sushi](http://www.brsushi.com/)
+## Thai    [Glow Thai](http://glowthai.com/)
 ---
-Start Over
+[Start Over]((../home.md)) 
